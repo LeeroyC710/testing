@@ -1,0 +1,8 @@
+/venv/
+
+/pythonexercises/__init__.py
+/pythonexercises/__pycache__/
+
+/tests/__init__.py
+/tests/.pytest_cache/
+/tests/__pycache__/
